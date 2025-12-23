@@ -29,7 +29,7 @@ A aplicação consiste em uma **calculadora simples de multiplicação**, com in
 ---
 
 ## 📁 Estrutura do projeto
-- `src/` → código-fonte da aplicação
+- `WindowsFormsTeste/` → código-fonte da aplicação
 - `build/` → versão compilada do executável (Release)
 
 ## 🧪 Observações
